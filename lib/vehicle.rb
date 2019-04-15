@@ -7,7 +7,7 @@ def initialize(wheel_size, wheel_number)
 end 
 
 def go 
-  "vrrrrrroooom!"
+  "vrrrrrrrooom!"
 end 
 
 def fill_up_tank
